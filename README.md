@@ -7,7 +7,7 @@ data into optimized multi-vehicle routes. It respects vehicle capacity, delivery
 time windows, service times, and depot deadlines, then quantifies the impact
 against a fair baseline.
 
-[Live Demo](YOUR_STREAMLIT_DEMO_URL) · [Validation Results](#validation-results) · [License](#license)
+[Live Demo](https://routeiq-logistics.streamlit.app/ )· [Validation Results](#validation-results) · [License](#license)
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
