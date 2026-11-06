@@ -1,0 +1,5 @@
+instance,method,vehicles,distance,distance_truncated_1dp,solver_runtime_s,time_limit_s,tw_violations,unassigned,audit_ok,improvement_distance_pct,improvement_vehicles_pct,best_known_vehicles,best_known_distance,best_known_convention,gap_vs_best_known_pct
+R101-25,RouteIQ (OR-Tools),8,618.3,617.1,8.03,8,0,0,True,34.7,42.9,8,617.1,truncated,0.0
+R101-25,Nearest-neighbour,14,947.2,945.9,0.0,,0,0,True,,,8,617.1,truncated,
+R101-100,RouteIQ (OR-Tools),19,1653.5,1648.5,30.0,30,0,0,True,,,19,1650.8,double,0.17
+R101-100,Nearest-neighbour,25,1666.1,1661.3,0.02,,0,21,True,,,19,1650.8,double,
