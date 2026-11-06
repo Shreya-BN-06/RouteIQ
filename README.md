@@ -289,7 +289,7 @@ The Solomon benchmark data is not covered by this license. See the SINTEF page a
 
 ## Author
 
-**Your Name**  
+Shreya B N 
 Sole Developer & Product Owner
 
 I designed and built RouteIQ end-to-end:
